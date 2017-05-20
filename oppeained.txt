@@ -1,0 +1,28 @@
+MTAT.03.100;Programmeerimine;6;sügis
+MTAT.03.130;OO programmeerimine;6;kevad
+MTMM.00.342;Matemaatiline maailmapilt;6;sügis
+MTAT.00.041;Bakalaureusetöö;9;kevad
+MTAT.06.045;Keeletehnoloogia;6;kevad
+MTAT.05.085;Automaadid, keeled ja transl.;6;kevad
+MTAT.06.008;Tehisintellekt I;6;sügis
+MTAT.05.122;Graafid ja mat. loogika;6;kevad
+MTAT.05.125;Sissejuh. teor. inf.;6;sügis
+MTAT.03.133;Algoritmid ja andmestr.;6;sügis
+MTAT.03.006;Programmeerimiskeeled;6;sügis
+MTAT.03.094;Tarkvaratehnika;6;sügis
+MTAT.03.230;Veebirakenduste loomine;6;kevad
+MTAT.03.032;Kasutajaliideste kavandamine;3;kevad
+MTAT.03.159;Tarkvara testimine;3;kevad
+MTAT.03.138;Tarkvaraprojekt;6;sügis
+MTAT.03.264;Andmebaasid;6;kevad
+LOFY.03.079;Arvutiriistvara;6;sügis
+MTAT.03.005;Operatsioonisüsteemid;6;sügis
+MTAT.03.134;Andmeturve;6;kevad
+MTMM.00.340;Kõrgem matemaatika I;6;sügis
+MTMM.00.341;Kõrgem matemaatika II;6;kevad
+MTMS.02.059;Tõenäosust. ja stat.;6;kevad
+LOFY.01.121;Füüsika ja tehnika;6;kevad
+MTAT.05.074;Sissej. informaatikasse;3;sügis
+HVLC.01.014;Erialane inglise keel INF;3;sügis
+MTAT.03.233;IT sotsiaalsed aspektid;3;sügis
+MJRI.09.027;Sissejuh. majandusteooriasse;6;sügis
